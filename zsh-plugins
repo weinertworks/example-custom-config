@@ -1,0 +1,1 @@
+ plugins=(chruby docker docker-compose ember-cli encode64 git osx rails ruby z)
